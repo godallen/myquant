@@ -1,0 +1,3 @@
+必须先安装的包：wx、tushare、baostock、mpl_finance、matplotlib
+
+邮箱：godxd@qq.com
